@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Hello, I'm David Kaingi!
 
-<!--
-**kaingi/kaingi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** and **DevOps enthusiast** based in Nairobi, Kenya 🇰🇪.  
+Currently pursuing backend engineering at **ALX** and diving deep into cloud-native tools like **Docker**, **Kubernetes**, and **CI/CD pipelines**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 **Tech Stack**
+```bash
+💻 Languages:     Python | JavaScript | Bash  
+🛠️  Frameworks:   Node.js | FastAPI | Flask | React  
+⚙️  DevOps:       Docker | Kubernetes | GitHub Actions | Linux  
+☁️  Cloud:        AWS (Certified Cloud Practitioner)  
+🗃️  Databases:    PostgreSQL | MySQL | SQLite
